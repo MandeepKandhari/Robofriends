@@ -10,7 +10,7 @@ import { searchRobots, requestRobots } from './reducer.js';
 
 
 import './index.css';
-import App from './App';
+import App from './container/App';
 import 'tachyons';
 import registerServiceWorker from './registerServiceWorker';
 
